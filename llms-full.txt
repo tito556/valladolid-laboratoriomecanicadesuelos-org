@@ -1,0 +1,49 @@
+# Laboratoriomecanicadesuelos — Valladolid
+
+> Geotechnical engineering services in Valladolid, España.
+
+## Services
+- [Aislacion Sismica](https://valladolid.laboratoriomecanicadesuelos.org/aislacion-sismica/)
+- [Calicatas Exploratorias](https://valladolid.laboratoriomecanicadesuelos.org/calicatas-exploratorias/)
+- [Cbr Vial](https://valladolid.laboratoriomecanicadesuelos.org/cbr-vial/)
+- [Cimentaciones](https://valladolid.laboratoriomecanicadesuelos.org/cimentaciones/)
+- [Cimentaciones Superficiales](https://valladolid.laboratoriomecanicadesuelos.org/cimentaciones-superficiales/)
+- [Columnas Grava](https://valladolid.laboratoriomecanicadesuelos.org/columnas-grava/)
+- [Densidad Cono Arena](https://valladolid.laboratoriomecanicadesuelos.org/densidad-cono-arena/)
+- [Ensayo Cpt](https://valladolid.laboratoriomecanicadesuelos.org/ensayo-cpt/)
+- [Ensayo Triaxial](https://valladolid.laboratoriomecanicadesuelos.org/ensayo-triaxial/)
+- [Estabilidad Taludes](https://valladolid.laboratoriomecanicadesuelos.org/estabilidad-taludes/)
+- [Excavaciones Profundas](https://valladolid.laboratoriomecanicadesuelos.org/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://valladolid.laboratoriomecanicadesuelos.org/excavaciones-subterraneo/)
+- [Exploracion](https://valladolid.laboratoriomecanicadesuelos.org/exploracion/)
+- [Geofisica](https://valladolid.laboratoriomecanicadesuelos.org/geofisica/)
+- [Geotecnia Vial](https://valladolid.laboratoriomecanicadesuelos.org/geotecnia-vial/)
+- [Granulometria](https://valladolid.laboratoriomecanicadesuelos.org/granulometria/)
+- [Grouting](https://valladolid.laboratoriomecanicadesuelos.org/grouting/)
+- [Laboratorio In Situ](https://valladolid.laboratoriomecanicadesuelos.org/laboratorio-in-situ/)
+- [Laboratorio Lab](https://valladolid.laboratoriomecanicadesuelos.org/laboratorio-lab/)
+- [Licuefaccion](https://valladolid.laboratoriomecanicadesuelos.org/licuefaccion/)
+- [Limites Atterberg](https://valladolid.laboratoriomecanicadesuelos.org/limites-atterberg/)
+- [Losa De Cimentacion](https://valladolid.laboratoriomecanicadesuelos.org/losa-de-cimentacion/)
+- [Masw Vs30](https://valladolid.laboratoriomecanicadesuelos.org/masw-vs30/)
+- [Mejoramiento](https://valladolid.laboratoriomecanicadesuelos.org/mejoramiento/)
+- [Microzonificacion Sismica](https://valladolid.laboratoriomecanicadesuelos.org/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://valladolid.laboratoriomecanicadesuelos.org/monitoreo-excavaciones/)
+- [Muros Contencion](https://valladolid.laboratoriomecanicadesuelos.org/muros-contencion/)
+- [Pavimento Flexible](https://valladolid.laboratoriomecanicadesuelos.org/pavimento-flexible/)
+- [Pavimento Rigido](https://valladolid.laboratoriomecanicadesuelos.org/pavimento-rigido/)
+- [Permeabilidad Campo](https://valladolid.laboratoriomecanicadesuelos.org/permeabilidad-campo/)
+- [Pilotes](https://valladolid.laboratoriomecanicadesuelos.org/pilotes/)
+- [Placa De Carga](https://valladolid.laboratoriomecanicadesuelos.org/placa-de-carga/)
+- [Sismica](https://valladolid.laboratoriomecanicadesuelos.org/sismica/)
+- [Sondaje Spt](https://valladolid.laboratoriomecanicadesuelos.org/sondaje-spt/)
+- [Taludes](https://valladolid.laboratoriomecanicadesuelos.org/taludes/)
+- [Tomografia Sismica](https://valladolid.laboratoriomecanicadesuelos.org/tomografia-sismica/)
+- [Vibrocompactacion](https://valladolid.laboratoriomecanicadesuelos.org/vibrocompactacion/)
+
+## Contact
+- Website: https://valladolid.laboratoriomecanicadesuelos.org/
+
+## About
+This site provides geotechnical engineering services in Valladolid, España.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
